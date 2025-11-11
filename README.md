@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajioffl&label=Profile%20views&color=0e75b6&style=flat" alt="balajioffl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajioffl" alt="balajioffl" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/balaji_offl_" target="blank"><img src="https://img.shields.io/twitter/follow/balaji_offl_?logo=twitter&style=for-the-badge" alt="balaji_offl_" /></a> </p>
 
 - 🔭 I’m currently working on **Smart City**
