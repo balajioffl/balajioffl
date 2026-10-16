@@ -1,6 +1,6 @@
 # Hi 👋, I'm Balaji
 
-## Full Stack Product Developer
+## Full Stack Developer
 
 I'm a Full Stack Developer passionate about building scalable web applications and solving real-world problems.
 
@@ -20,15 +20,17 @@ Currently working as a Product Developer, building tools for software testing an
 - JavaScript
 - HTML5
 - CSS3
+- Tailwind CSS
+- Bootstrap
 
 ### Database
 - MySQL
+- Mongodb
 
 ### DevOps
 - Docker
 - Redis
 - Celery
-- Nginx
 - Linux
 
 ### Tools
@@ -50,8 +52,7 @@ Currently working as a Product Developer, building tools for software testing an
 
 ## 💼 Projects
 
-- 🛒 Production-Grade E-Commerce Platform
-- ✅ Task Management System
+- 🛒 Production-Grade Task Management System
 - 🧪 Product Developer in QA Automation & Testing Tool
 
 ---
@@ -73,6 +74,7 @@ Software Engineer / Full Stack Developer opportunities where I can build scalabl
 - LinkedIn: https://www.linkedin.com/in/balajis2004/
 - GitHub: https://github.com/balajioffl
 - mail: balajioffl07@gmail.com
+- Leetcode: https://leetcode.com/u/KU90pLKqUu/
 
 ---
 
